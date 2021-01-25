@@ -1,2 +1,2 @@
-# Sokoban
-Projet Epitech de Première Année, réalisé en 2017. Création d'un sokoban en ncurses.
+First Year Epitech project, carried out in 2017.
+Creation of a sokoban in ncurses.
